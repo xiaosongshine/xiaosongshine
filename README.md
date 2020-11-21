@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![XiaoSong's github stats](https://github-readme-stats.vercel.app/api?username=XiaoSong?theme=radical)](https://github.com/anuraghazra/xiaosongshine)
+[![XiaoSong's github stats](https://github-readme-stats.vercel.app/api?username=XiaoSong)](https://github.com/anuraghazra/xiaosongshine)
 
 <!--
 **xiaosongshine/xiaosongshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
