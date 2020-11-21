@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![XiaoSong's github stats](https://github-readme-stats.vercel.app/api?username=XiaoSong)](https://github.com/anuraghazra/xiaosongshine)
-
+[![xiaosongshine's github stats](https://github-readme-stats.vercel.app/api?username=xiaosongshine)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xiaosongshine/xiaosongshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
