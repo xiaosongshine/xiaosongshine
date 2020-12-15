@@ -1,7 +1,10 @@
-### Hi there, I am XiaoSong..
+### Hi there, I am XiaoSongShine..
 
 [CSDN博客专家](https://xiaosongshine.blog.csdn.net/)&&[知乎深度学习专栏作家](https://www.zhihu.com/people/xiaosongshine)
 
+<p>欢迎大家关注小宋的深度学习公众号《极简AI》带你学深度学习： </p>
+</br>
+<img src="https://img-blog.csdnimg.cn/20201208102533125.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpYW9zb25nc2hpbmU=,size_16,color_FFFFFF,t_70"  alt="极简AI公众号" />
 
 [![xiaosongshine's github stats](https://github-readme-stats.vercel.app/api?username=xiaosongshine&theme=vue&&hide=prs,contribs)](https://xiaosongshine.blog.csdn.net/)
 <!--
