@@ -8,7 +8,7 @@
 
 <p>欢迎大家关注小宋的深度学习公众号《极简AI》带你学深度学习： </p>
 </br>
-<img src="https://img-blog.csdnimg.cn/20201208102533125.png" height="150" width="450" alt="极简AI公众号" />
+<img src="https://img-blog.csdnimg.cn/20201208102533125.png" height="200" width="500" alt="极简AI公众号" />
 
 <!--
 **xiaosongshine/xiaosongshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
