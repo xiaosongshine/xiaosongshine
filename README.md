@@ -5,12 +5,13 @@
 
 
 [![xiaosongshine's github stats](https://github-readme-stats.vercel.app/api?username=xiaosongshine&theme=vue&&hide=prs,contribs)](https://xiaosongshine.blog.csdn.net/)
-<!--
-**xiaosongshine/xiaosongshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p>欢迎大家关注小宋的深度学习公众号《极简AI》带你学深度学习： </p>
 </br>
 <img src="https://img-blog.csdnimg.cn/20201208102533125.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpYW9zb25nc2hpbmU=,size_16,color_FFFFFF,t_70"  alt="极简AI公众号" />
+
+<!--
+**xiaosongshine/xiaosongshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
