@@ -9,7 +9,7 @@
 
 [![xiaosongshine's github stats](https://github-readme-stats.vercel.app/api?username=xiaosongshine&theme=vue&&hide=prs,contribs)](https://xiaosongshine.blog.csdn.net/)
 
-<p>欢迎大家关注小宋的深度学习公众号《极简AI》带你学深度学习： </p>
+<p>欢迎大家关注小宋的深度学习公众号《简明AI》带你学深度学习： </p>
 </br>
 <img src="https://img-blog.csdnimg.cn/img_convert/f4c0601fd8f86b2795e3d00928660bd9.png" height="180" width="480" alt="极简AI公众号" />
 也可以关注我的公众号私信与我交流。。
