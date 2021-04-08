@@ -11,7 +11,7 @@
 
 <p>欢迎大家关注小宋的深度学习公众号《简明AI》带你学深度学习： </p>
 </br>
-<img src="https://img-blog.csdnimg.cn/img_convert/f4c0601fd8f86b2795e3d00928660bd9.png" height="180" width="480" alt="极简AI公众号" />
+<img src="https://img-blog.csdnimg.cn/20210407164640647.png" height="180" width="480" alt="极简AI公众号" />
 也可以关注我的公众号私信与我交流。。
 这里收集了一些比较适合入门实战的PDF书籍，覆盖TensorFlow、PyTorch与MXNet。推荐的理由是通俗易懂，适合初学者研究学习。书籍列表如下：
 《简单粗暴TensorFlow2最新中文版》
