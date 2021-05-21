@@ -1,3 +1,9 @@
+[![知乎](https://img.shields.io/badge/知乎-查看-blue)](https://www.zhihu.com/people/xiaosongshine)
+[![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/xiaosongshine)
+[![腾讯云+](https://img.shields.io/badge/腾讯云%2B-查看-lightgrey)](https://cloud.tencent.com/developer/user/2144603)
+[![Bilibili](https://img.shields.io/badge/Bilibili-查看-pink)](https://space.bilibili.com/172747864)
+
+
 ### Hi there, I am XiaoSongShine..
 ### 大家好, 我是小宋。。
 
@@ -24,6 +30,14 @@
 </br>
 </br>
 关注后，回复：书籍，领取。
+
+
+## Visitor Statistics 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/xiaosongshine/count.svg" />
+</p>
 <!--
 **xiaosongshine/xiaosongshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
