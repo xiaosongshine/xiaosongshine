@@ -1,7 +1,8 @@
 [![知乎](https://img.shields.io/badge/知乎-查看-blue)](https://www.zhihu.com/people/xiaosongshine)
 [![CSDN](https://img.shields.io/badge/CSDN-查看-red)](https://blog.csdn.net/xiaosongshine)
+[![博客园](https://img.shields.io/badge/博客园-查看-green)](https://www.cnblogs.com/xiaosongshine/)
 [![腾讯云+](https://img.shields.io/badge/腾讯云%2B-查看-lightgrey)](https://cloud.tencent.com/developer/user/2144603)
-[![Bilibili](https://img.shields.io/badge/Bilibili-查看-pink)](https://space.bilibili.com/172747864)
+[![Bilibili](https://img.shields.io/badge/B站-查看-pink)](https://space.bilibili.com/172747864)
 
 
 ### Hi there, I am XiaoSongShine..
